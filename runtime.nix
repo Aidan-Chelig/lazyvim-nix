@@ -36,6 +36,7 @@ pkgs.symlinkJoin {
     clangd
     (make-lazy "nil" "nil")
     (make-lazy "taplo" "taplo")
+    (make-lazy "zls" "zls")
     (make-lazy "rust-analyzer" "rust-analyzer")
     (make-lazy "marksman" "marksman")
     (make-lazy "neocmakelsp" "neocmakelsp")
