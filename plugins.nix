@@ -24,7 +24,7 @@ let
     dashboard-nvim
     dressing-nvim
     flash-nvim
-    friendly-snippets
+    #friendly-snippets
     gitsigns-nvim
     headlines-nvim
     indent-blankline-nvim
